@@ -1,11 +1,15 @@
 {
-  "name": "dsa.js",
+  "name": "nigam_dsa.js",
   "version": "1.0.0",
   "description": "An npm package that will give you sorting and searching algorithms",
   "license": "ISC",
   "author": "Nigam Prasad Sahoo",
   "type": "commonjs",
   "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Cool-Developer-Nigam/dsa_npm_package"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   }
